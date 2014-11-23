@@ -1,0 +1,8 @@
+*.py[oc]
+*.sw[po]
+*.slsc
+minion.d*
+minion_id
+pki
+reclass-config.yml
+.vagrant
